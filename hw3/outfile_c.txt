@@ -1,0 +1,3 @@
+mean +- 1 STD : 70.72 %
+mean +- 2 STD : 94.69 %
+mean +- 3 STD : 99.48 %

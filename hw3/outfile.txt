@@ -1,0 +1,16 @@
+3.1.a
+Mean = 11.46
+STD = 4.62
+
+3.1.b
+mean + 1*STD = 16.08
+mean - 1*STD = 6.84
+mean + 2*STD = 20.70
+mean - 2*STD = 2.22
+mean + 3*STD = 25.33
+mean - 3*STD = -2.40
+
+3.1.c
+mean +- 1*STD = 50.22%
+mean +- 1*STD = 100.00%
+mean +- 1*STD = 100.00%
