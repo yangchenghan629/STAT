@@ -1,0 +1,25 @@
+2.1.1
+Taipei    1961_1970   Mean : 28.71
+Taipei    2001_2010   Mean : 30.00
+Taitung   1961_1970   Mean : 28.54
+Taitung   2001_2010   Mean : 29.06
+
+2.1.2
+Taipei    1961_1970   Mean Max : 33.46
+Taipei    1961_1970   Mean Min : 25.12
+Taipei    2001_2010   Mean Max : 34.15
+Taipei    2001_2010   Mean Min : 26.95
+Taitung   1961_1970   Mean Max : 31.94
+Taitung   1961_1970   Mean Min : 25.26
+Taitung   2001_2010   Mean Max : 32.17
+Taitung   2001_2010   Mean Min : 26.33
+
+2.1.3
+Taipei    1961_1970   Mean DTR :  8.34
+Taipei    2001_2010   Mean DTR :  7.20
+Taitung   1961_1970   Mean DTR :  6.67
+Taitung   2001_2010   Mean DTR :  5.85
+Taipei    1961_1970   Variance :  9.53
+Taipei    2001_2010   Variance :  6.89
+Taitung   1961_1970   Variance :  6.92
+Taitung   2001_2010   Variance :  5.22
