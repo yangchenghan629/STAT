@@ -1,0 +1,6 @@
+- Perform the regression analysis (as shown in slide #25, left panel) and conduct a significance test (using Python’s default function is fine). Specifically, use the Niño 3.4 index as the independent variable (x) and global SST as the dependent variable (y) to illustrate how global SST responds during ENSO events.
+- Please plot:
+  - (a) The original regression map (using the time period from 1979/01 to 2018/12)
+  - (b) The filtered regression map shows only those grid points, where the p-value is below 0.05 (mask out those grids are not significant – p-value>0.05)
+- Identify one region that shows a similar pattern between (a) and (b), and one region that shows a different pattern between (a) and (b)
+- Please discuss WHY there is similar (difference) pattern for that regions you identified.
